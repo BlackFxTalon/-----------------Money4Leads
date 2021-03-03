@@ -9,4 +9,4 @@ animations done in css
 <br>
 project link - https://upbeat-benz-b97a22.netlify.app/
 <br>
-no mobile version included
+no responsive version included
